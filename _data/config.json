@@ -35,8 +35,8 @@
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Home",
+                "url": "/",
                 "style": "link"
             },
             {
@@ -45,9 +45,14 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
+                "label": "Log in",
+                "url": "/thank-you",
+                "style": "secondary"
+            },
+            {
+                "label": "Registrati",
+                "url": "/thank-you",
+                "style": "primary"
             }
         ],
         "has_secondary_nav": true,
