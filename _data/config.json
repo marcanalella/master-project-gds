@@ -32,7 +32,7 @@
     },
     "footer": {
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Mappa del sito",
         "primary_nav_links": [
             {
                 "label": "Home",
@@ -47,12 +47,12 @@
             {
                 "label": "Log in",
                 "url": "/thank-you",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "Registrati",
                 "url": "/thank-you",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
