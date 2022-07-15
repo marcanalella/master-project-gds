@@ -1,29 +1,19 @@
 {
-    "title": "Stackbit Startup Theme",
+    "title": "Membership Giornale di Sicilia",
     "layout_type": "full-width",
     "style": "classic",
     "palette": "blue2",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Startup",
+        "title": "Membership Giornale di Sicilia",
         "logo": "images/logo.png",
-        "logo_alt": "YourGoal logo",
+        "logo_alt": "Membership Giornale di Sicilia logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "secondary"
-            },
-            {
-                "label": "Registrati",
+                "label": "Abbonati",
                 "url": "/thank-you",
                 "style": "primary"
             }
@@ -40,17 +30,7 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "link"
-            },
-            {
-                "label": "Registrati",
+                "label": "Abbonati",
                 "url": "/thank-you",
                 "style": "link"
             }

@@ -4,13 +4,6 @@ sections:
   - type: hero_section
     title: Membership del Giornale di Sicilia
     subtitle: Scopri la nuova membership del Giornale di Sicilia
-    actions:
-      - label: Registrati
-        url: /pricing
-        style: primary
-      - label: Scopri di più
-        url: /pricing
-        style: secondary
     image: images/gsic_devices.png
     image_alt: Hero section placeholder image
     media_position: bottom
@@ -39,10 +32,9 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
+      - title: Dai sfogo alla tua creatività con Spazio Bianco
         content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+          Un luogo in cui la tua passione per la scrittura potrà essere condivisa con tutti i membri della Community ed ogni settimana i pezzi più belli verranno pubblicati nel quotidiano in formato cartaceo.
         image: images/feature-3.png
         image_alt: Feature 3 placeholder image
         media_position: right
@@ -64,7 +56,7 @@ sections:
   - type: grid_section
     title: Come funziona?
     grid_items:
-      - title: Registrati
+      - title: Abbonati
         title_align: left
         content: >-
           Scegli il piano che fa al caso tuo
@@ -94,10 +86,10 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Quarto punto
+      - title: Accesso a Spazio Bianco
         title_align: left
         content: >-
-          Aiuto
+          Aumenta la tua visibilità con Spazio Bianco, crea il tuo trafiletto e condividilo con la Community.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
@@ -111,74 +103,64 @@ sections:
     align: center
     background_color: none
   - type: hero_section
-    title: Scegli il tuo piano
-    subtitle: Abbiamo introdotto diverse tipologie di mermbership
+    title: Piani di membership
+    subtitle: Scegli il piano che fa per te!
     align: center
     padding_top: large
     padding_bottom: small
   - type: grid_section
     grid_items:
       - title: Standard
-        subtitle: Optional subtitle
+        subtitle: Funzioni limitate, accesso all'area clienti
         title_align: left
         content: |-
           ---
 
-          ### €9
+          ### €9.99 al mese
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          * Digital edition
+          * Magazine allegati al quotidiano
+          * Tutte le edizioni locali
+          * Newsletter settimanali e giornaliere (con tematiche da te scelte)
+          * Agevolazioni e scontistica riservate ai soli abbonati
         content_align: left
         actions:
-          - label: Registrati
+          - label: Abbonati
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
+      - title: Annuale
+        subtitle: Funzioni intermedie, accesso all'area clienti
+        title_align: left
+        content: |-
+          ---
+
+          ### €6.99 al mese
+
+          * Tutto ciò che comprende i servizi del primo abbonamento
+          * Permette di ricevere ogni 3 mesi un premio fedeltà
+        content_align: left
+        actions:
+          - label: Abbonati
             url: /thank-you
             style: primary
         actions_align: left
         actions_width: full-width
       - title: Premium
-        subtitle: Optional subtitle
+        subtitle: Funzioni illimitate, accesso all'area VIP
         title_align: left
         content: |-
           ---
 
-          ### €19
+          ### €14.99 al mese
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          * Tutto ciò che comprende l'abbonamento standard, illimitatamente.
+          * Agli articoli ed ai contenuti premium riservati agli abbonati GdS al sito e/o app senza pubblicità!
+          * Accesso esclusivo all'interno dello "Spazio Bianco"
         content_align: left
         actions:
-          - label: Registrati
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Business
-        subtitle: Optional subtitle
-        title_align: left
-        content: |-
-          ---
-
-          ### €39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
-        content_align: left
-        actions:
-          - label: Registrati
+          - label: Abbonati
             url: /thank-you
             style: primary
         actions_align: left
@@ -195,7 +177,7 @@ sections:
     title: Pronto per iniziare?
     content: Accedi ai benefit della merbership oggi stesso!
     actions:
-      - label: Registrati
+      - label: Abbonati
         url: /thank-you
         style: primary
     actions_width: fourty
@@ -208,17 +190,17 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: GdS
-  description: The preview of the Startup theme
+  title: Membership Giornale di Sicilia
+  description: Iscriviti alla merbership del Giornale di Sicilia!
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Membership Giornale di Sicilia
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Iscriviti alla merbership del Giornale di Sicilia!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -227,9 +209,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Membership Giornale di Sicilia
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Iscriviti alla merbership del Giornale di Sicilia!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
