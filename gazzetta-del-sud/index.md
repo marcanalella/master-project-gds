@@ -59,36 +59,37 @@ sections:
     subtitle: Scegli il piano che fa per te!
     pricing_plans:
       - title: Standard
-        subtitle: Funzioni limitate, accesso all'area clienti
+        subtitle: Accesso all'area clienti
         price: €9.99 al mese
         details: |-
           * Digital edition
           * Magazine allegati al quotidiano
           * Tutte le edizioni locali
           * Newsletter settimanali e giornaliere (con tematiche da te scelte)
-          * Agevolazioni e scontistica riservate ai soli abbonati
         actions:
           - label: Abbonati
             url: /thank-you
             style: secondary
       - title: Annuale
-        subtitle: Funzioni intermedie, accesso all'area clienti
-        price: €6.99 al mese
+        subtitle: Accesso all'area clienti
+        price: €99,90/anno (10 + 2 mesi gratis)
         details: |-
-          * Tutto ciò che comprende i servizi del primo abbonamento
-          * Permette di ricevere ogni 3 mesi un premio fedeltà
+          * Tutto ciò che comprende l'abbonamento STANDARD
         highlight: true
         actions:
           - label: Abbonati
             url: /thank-you
             style: primary
       - title: Premium
-        subtitle: Funzioni illimitate, accesso all'area VIP
+        subtitle: Accesso all'area VIP
         price: €14.99 al mese
         details: |-
-          * Tutto ciò che comprende l'abbonamento standard, illimitatamente.
-          * Agli articoli ed ai contenuti premium riservati agli abbonati GdS al sito e/o app senza pubblicità!
-          * Accesso esclusivo all'interno dello "Spazio Bianco"
+          * Tutto ciò che comprende l'abbonamento STANDARD e ANNUALE, illimitatamente.
+          * Notizie senza pubblicità
+          * BENEFIT
+          * AgAccesso esclusivo all'interno dello "Spazio Bianco"
+          * Accesso esclusivo agli eventi della community ed esperienze personalizzate
+          * Prezzo bloccato per i primi 2 anni
         actions:
           - label: Abbonati
             url: /thank-you
