@@ -155,7 +155,10 @@ sections:
 
           * Tutto ciò che comprende l'abbonamento STANDARD e ANNUALE, illimitatamente.
           * Notizie senza pubblicità
-          * BENEFIT
+          
+          BENEFIT:
+          
+          
           * Accesso esclusivo all'interno dello "Spazio Bianco"
           * Accesso esclusivo agli eventi della community ed esperienze personalizzate
           * Prezzo bloccato per i primi 2 anni
