@@ -52,6 +52,14 @@ sections:
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Con Spazio Bianco posso condividere con tutti i membri della Community dalla Sicilia, dalla Calabria e dall'Italia su cronaca, politica, economia, sport.
+  - section_id: call-to-action
+    type: section_cta
+    title: Offerta lancio! 3 mesi al prezzo di 1 a soli €9,99
+    subtitle: Accedi ai benefit della merbership oggi stesso!
+    actions:
+      - label: Abbonati
+        url: /thank-you
+        style: primary
   - section_id: pricing
     type: section_pricing
     background: gray

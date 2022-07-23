@@ -108,6 +108,22 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+  - type: cta_section
+    title: Offerta lancio! 3 mesi al prezzo di 1 a soli €9,99
+    content: Accedi ai benefit della merbership oggi stesso!
+    actions:
+      - label: Abbonati
+        url: /thank-you
+        style: primary
+    actions_width: fourty
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/background.svg
+    background_image_position: center top
+    background_image_size: cover
+    background_image_opacity: 10
   - type: grid_section
     grid_items:
       - title: Standard
